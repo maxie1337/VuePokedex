@@ -4,7 +4,7 @@ Du kommer att se en lista som är begränsad till 20 olika pokemons, men du kan 
 
 För att kunna köra applikationen behöver du göra följande:
 
-1. 1. Se till att du har följande installerat på din enhet:  
+1. Se till att du har följande installerat på din enhet:  
 
 Node.js (v16+)
 
